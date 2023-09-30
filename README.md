@@ -24,3 +24,4 @@ O projeto tem como objetivo utilizar um ou mais conjuntos de dados para realiza√
 * [World Press Freedom Score](https://www.kaggle.com/datasets/arjitgupta00/world-press-freedom-score-20192022) - Kaggle.
 
 <img align="right" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<img align="right" width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg'> </a>
